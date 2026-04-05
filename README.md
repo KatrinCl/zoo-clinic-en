@@ -4,7 +4,9 @@ A full-stack web application for a veterinary clinic with a public website and a
 
 🔗 Demo
 
-Live Demo
+https://zoo-clinic-en.vercel.app
+
+https://github.com/KatrinCl/zoo-clinic-en
 
 🚀 Features
 
@@ -18,7 +20,7 @@ Fully responsive (mobile, tablet, desktop)
 
 Admin Panel:
 
-Add/remove doctors and services
+Add/remove/update doctors and services
 Upload images via ImageKit
 Simple content management
 
@@ -31,3 +33,6 @@ Additional: ImageKit (image storage), Multer (file uploads)
 🎯 Purpose:
 
 Created for learning and portfolio purposes to practice full-stack development, REST APIs, and admin panel implementation.
+
+
+For questions or inquiries, reach me at katya55293@gmail.com or +7-901-285-3563.
